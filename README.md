@@ -8,7 +8,8 @@ Run this command in your root folder:
 ```
 npm install && npm run dev
 ```
+Click on header to sort.
 
 Demo:
 
--   [Vercel](http://link)
+-   [Vercel](https://twendee-test-bice.vercel.app/)
